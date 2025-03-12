@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "466821096480",
+    "project_id": "loyaltyapp-57bee",
+    "storage_bucket": "loyaltyapp-57bee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466821096480:android:eb3547ddfd144310c18845",
+        "android_client_info": {
+          "package_name": "com.example.loyaltyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466821096480-ch99fsk96dsutr25rqqbbk7e4seshorr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loyaltyapp",
+            "certificate_hash": "81102a3768ca3ad0a30ee70c81e9f593c1fbe20e"
+          }
+        },
+        {
+          "client_id": "466821096480-e70qg8jhvsqssnemjebi9kbs448lvqd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuxWCF_WKXKoLJpL9RR5nVarDPd0gIBF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466821096480-e70qg8jhvsqssnemjebi9kbs448lvqd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
