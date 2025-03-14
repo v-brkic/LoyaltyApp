@@ -1,2 +1,1 @@
-![Ovdje se prikazuje](docImages/s15.png)
-![Another Image](docImages/s16.png)
+<img src="docImages/s16.png" alt="Description" width="300" />
