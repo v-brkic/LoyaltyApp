@@ -1,6 +1,7 @@
 **Project Summary**
 
 Kotlin as the primary language, taking advantage of its concise syntax and modern features.<br/>
+(All images are in 'docImages' folder).<br/>
 **Used:**
 - Jetpack Compose
 - Firebase Authentication (Email + Password, Google Sign-In)
